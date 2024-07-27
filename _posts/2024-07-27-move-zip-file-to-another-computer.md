@@ -1,5 +1,7 @@
 ---
 title:  "Move zip file to another computer"
+category: tutorial
+tags: [zip, quick-share]
 ---
 > Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.
 

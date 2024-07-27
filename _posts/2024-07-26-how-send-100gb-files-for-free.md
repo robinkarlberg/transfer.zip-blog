@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "How to send 100GB files for free"
+category: tutorial
+tags: [bigfile, quick-share]
 ---
 **Everyone has faced challenges when trying to send big files online.** First, you might attempt to send it via Discord, only to discover that it has a 25MB limit. Email isn't a viable option either due to its size restrictions. Uploading to WeTransfer seems like a solution, but it caps at 2GB. Google Drive could work, but you find it to be cluttered with too many buttons and options, you also know that Google happily steals your data to sell to the highest bidder. 
 

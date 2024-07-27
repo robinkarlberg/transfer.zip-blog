@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "How to easily upload zip file online"
+category: tutorial
+tags: [zip, quick-share]
 ---
 **Seemingly, there is no quick and easy way to upload and send files like .zip files on the modern web.** You might start with WhatsApp, but its 16MB limit can be frustratingly restrictive. Email isn't feasible due to attachment size constraints. Dropbox looks promising, but it has a 2GB limit on free file transfers. OneDrive could be another option, but its interface is overly complex, you just want something quick, easy and free!
 
@@ -69,7 +71,7 @@ Hopefully the file transfer went smoothly. If you encounter any problems, you co
 - Only 5GB per transfer
 - Not open source
 
-Uploading files with TransferNow is straight-forward, their landing page is beautiful and contains cute art, instead of ads.
+Uploading files with TransferNow is straight-forward, their website is beautiful and contains cute art, instead of ads.
 
 ![Screenshot of TransferNow landing page](/assets/img/transfernow.png)
 
@@ -88,6 +90,6 @@ Uploading files with TransferNow is straight-forward, their landing page is beau
 - Not open source
 - Few but large advertisements
 
-Uploading files with WeTransfer is easy, their landing page is straight-forward and clean.
+Uploading files with WeTransfer is easy, their landing page is straight-forward and clean, but contains a large full-screen ads if you are not using an ad-blocker.
 
 ![Screenshot of WeTransfer landing page](/assets/img/wetransfer.png)
