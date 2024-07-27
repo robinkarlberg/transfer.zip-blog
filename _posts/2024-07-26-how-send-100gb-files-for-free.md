@@ -39,7 +39,7 @@ In such cases, Quick Share relays the encrypted file information through one of 
 
 #### **4. Wait while the files are being transfered**
 
-Finally, when the connection is established, the files will begin transferring. Remember that they are transfered in real-time, so if anyone closes their browser tab or window, the transfer will be stopped and will need to be restarted again. This is one of the biggest limitations of transfer.zip's Quick Share, but it is also the reason why the files can be so infinitely large. The transfer speed is limited by your and your receivers internet connection, so sending big files could take time. Be patient!
+Finally, when the connection is established, the files will begin transferring. Remember that they are transfered in real-time, so **if anyone closes their browser tab or window, the transfer will be stopped** and will need to be restarted again. This is one of the biggest limitations of transfer.zip's Quick Share, but it is also the reason why the files can be so infinitely large. The transfer speed is limited by your and your receivers internet connection, so sending big files could take time. Be patient!
 
 ![Screenshot of Quick Share showing the 100GB file is being downloaded](/assets/img/quick-share-progress-100g-3.png)
 
