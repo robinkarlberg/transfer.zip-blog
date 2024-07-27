@@ -16,7 +16,7 @@ timezone: Europe/Stockholm
 
 title: transfer.zip blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Transfer smarter # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blog for transfer.zip, with tips tricks and helpful information to make most of your file transfers.
