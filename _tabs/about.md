@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Official blog for [transfer.zip](https://transfer.zip). Here we will post about tips, tricks and helpful information to make most of your file transfers on our site, in forms of tutorials and troubleshooting.
