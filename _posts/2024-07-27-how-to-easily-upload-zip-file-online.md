@@ -2,7 +2,7 @@
 layout: post
 title:  "How to easily upload zip file online"
 ---
-**Seemingly, there is no quick and easy way to upload and send files like .zip-files on the modern web.** You might start with WhatsApp, but its 16MB limit can be frustratingly restrictive. Email isn't feasible due to attachment size constraints. Dropbox looks promising, but it has a 2GB limit on free file transfers. OneDrive could be another option, but its interface is overly complex, you just want something quick, easy and free!
+**Seemingly, there is no quick and easy way to upload and send files like .zip files on the modern web.** You might start with WhatsApp, but its 16MB limit can be frustratingly restrictive. Email isn't feasible due to attachment size constraints. Dropbox looks promising, but it has a 2GB limit on free file transfers. OneDrive could be another option, but its interface is overly complex, you just want something quick, easy and free!
 
 **So in this blog post, we will list what we think are the top three of the easiest and fastest file transfer services, so you can transfer your .zip files and more, hassle-free.**
 
@@ -23,7 +23,7 @@ If you've struggled with uploading large zip files online, this service is worth
 - Need to keep browser open during the whole transfer
 - A bit more advertisements
 
-### How to use transfer.zip to upload a zip file
+### How to use Quick Share to upload a zip file
 
 #### **1. Visit the website and pick your files**
 
@@ -69,11 +69,13 @@ Hopefully the file transfer went smoothly. If you encounter any problems, you co
 - Only 5GB per transfer
 - Not open source
 
+Uploading files with TransferNow is straight-forward, their landing page is beautiful and contains cute art, instead of ads.
+
 ![Screenshot of TransferNow landing page](/assets/img/transfernow.png)
 
 ## **3. [WeTransfer](https://wetransfer.com/)**
 
-[WeTransfer](https://wetransfer.com/) is probably one of the most popular file sharing websites on the web right now. However, they may not be the best for transfering large zip files for free just because they are the most popular. If you want to pay for their plans WeTransfer also offers features such as file encryption, customizable backgrounds, and tracking options, ensuring secure and seamless file sharing for individuals and organizations of all sizes!
+[WeTransfer](https://wetransfer.com/) is probably one of the most popular file sharing websites on the web right now. However, they may not be the best for transfering large zip files for free just because they are the most popular. If you want to pay for their plans, WeTransfer also offers features such as file encryption, customizable backgrounds, and tracking options, ensuring secure and seamless file sharing for individuals and organizations of all sizes!
 
 #### Pros
 - Files available for 7 days
@@ -85,5 +87,7 @@ Hopefully the file transfer went smoothly. If you encounter any problems, you co
 - May need to verify email
 - Not open source
 - Few but large advertisements
+
+Uploading files with WeTransfer is easy, their landing page is straight-forward and clean.
 
 ![Screenshot of WeTransfer landing page](/assets/img/wetransfer.png)
