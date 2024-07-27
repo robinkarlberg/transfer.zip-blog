@@ -43,6 +43,6 @@ Once connected, the file transfer begins. The transfer occurs in real-time, so i
 
 ![Screenshot of Quick Share showing the 100GB file is being downloaded](/assets/img/quick-share-progress-100g-3.png)
 
-### **5. Completed!**
+#### **5. Completed!**
 
 Thank you for using Quick Share by transfer.zip. We hope the file transfer was successful. If you encounter any issues, please [submit an issue on our GitHub page](https://github.com/robinkarlberg/transfer.zip-web/issues).
