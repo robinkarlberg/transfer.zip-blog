@@ -8,7 +8,7 @@ tags: [zip, quick-share]
 
 **So in this blog post, we will list what we think are the top three of the easiest and fastest file transfer services, so you can transfer your .zip files and more, hassle-free.**
 
-## **1. [Quick Share by transfer.zip](https://transfer.zip/quick-share)**
+## **1. [Quick Share by transfer.zip](https://transfer.zip/app/quick-share)**
 
 [transfer.zip](https://transfer.zip/) is a free and [open source](https://github.com/robinkarlberg/transfer.zip-web) platform that allows you to send files of any size. The source code is available on GitHub [here](https://github.com/robinkarlberg/transfer.zip-web), offering transparency and the option to self-host for added security. The official version at [https://transfer.zip/](https://transfer.zip/) runs the same verified code from the GitHub repository, ensuring it's just as secure.
 
@@ -29,7 +29,7 @@ If you've struggled with uploading large zip files online, this service is worth
 
 #### **1. Visit the website and pick your files**
 
-To use transfer.zip, just navigate to the official website at [transfer.zip](https://transfer.zip/). There you will be instructed to pick your files, or pick a whole folder if that's your thing. Once the files are picked, it should look something like this, with the file name appearing in the file box:
+To use transfer.zip, just navigate to the official website at [transfer.zip](https://transfer.zip//app/quick-share). There you will be instructed to pick your files, or pick a whole folder if that's your thing. Once the files are picked, it should look something like this, with the file name appearing in the file box:
 
 <!-- ![Quick Share landing page](/assets/img/quick-share-new.png){: width="400"} -->
 ![Screenshot of Quick Share showing that the user has picked a 100GB file](/assets/img/quick-share-100g.png){: width="400"}

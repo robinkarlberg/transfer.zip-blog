@@ -22,7 +22,7 @@ To summarize, Quick Share uses a peer-to-peer connection without server storage,
 
 #### **1. Visit the website and pick your files**
 
-To use Quick Share, just navigate to the official website at [transfer.zip](https://transfer.zip/). There you will be instructed to pick your files, or pick a whole folder if that's your thing. Once the files are picked, it should look something like this, with the file name appearing in the file box:
+To use Quick Share, just navigate to the official website at [transfer.zip](https://transfer.zip/app/quick-share). There you will be instructed to pick your files, or pick a whole folder if that's your thing. Once the files are picked, it should look something like this, with the file name appearing in the file box:
 
 <!-- ![Quick Share landing page](/assets/img/quick-share-new.png){: width="400"} -->
 ![Screenshot of Quick Share showing that the user has picked a 100GB file](/assets/img/quick-share-100g.png){: width="400"}

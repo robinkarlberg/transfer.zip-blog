@@ -15,7 +15,7 @@ The only caveat is that your browser window needs to be open during the whole fi
 
 ## How to use transfer.zip
 
-Using the service is easy, [navigate to transfer.zip](https://transfer.zip/quick-share) and press "Pick files" if you want to select individual files, or press "select a folder" to share all files stored in a specific folder. 
+Using the service is easy, [navigate to transfer.zip](https://transfer.zip/app/quick-share) and press "Pick files" if you want to select individual files, or press "select a folder" to share all files stored in a specific folder. 
 
 > When transfering a folder, it will be automatically converted to a .zip file in the browser, retaining the same directory structure and file names as in the original, when downloaded.
 {: .prompt-tip }
