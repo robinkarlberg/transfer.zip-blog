@@ -3,8 +3,6 @@ title:  "How to send large audio files"
 category: tutorial
 tags: [bigfile]
 ---
-# How to send large audio files
-
 > As a hobby music producer, I often needed to share large WAVs, but existing services didn't really do it for me. Discord's 50MB limit was frustrating, and Google Drive, MEGA, Dropbox etc. felt cumbersome [...]. I rarely need to save my transfered files permanently, I just want to transfer them, and I think many others do too.
 
 This quote is taken from the [GitHub page](https://github.com/robinkarlberg/transfer.zip-web/) of [transfer.zip](https://transfer.zip/), and open source file sharing website that offers **unlimited file size** for free. The creator says that music production is their hobby, and uses the website to share large audio files (WAVs and MP3s) with friends or even potential clients.
