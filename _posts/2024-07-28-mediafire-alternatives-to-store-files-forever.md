@@ -17,10 +17,10 @@ For users who prefer a more permanent solution, Transfer.zip offers the option t
 Security is a top priority for Transfer.zip. The "quick share" feature uses **end-to-end encryption**, ensuring that files are securely transferred and only accessible to the intended recipients, not even transfer.zip themselves can decrypt the data. When using an account, files are protected with AES-256 bit encryption, providing robust security for your permanent transfers. Additionally, the service is open source and contains limited ads, contributing to a more user-friendly experience.
 
 #### Good
-- Unlimited file size
+- **Unlimited file size with *Quick Share***
+- Use *Quick Share* without account
 - Strong focus on privacy and encryption
 - [Open source](https://github.com/robinkarlberg/transfer.zip-web/)
-- Use without account
 
 #### Bad
 - 1GB permanent storage could be too small for some users
