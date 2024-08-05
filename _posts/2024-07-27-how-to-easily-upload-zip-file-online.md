@@ -36,7 +36,7 @@ To use transfer.zip, just navigate to the official website at [transfer.zip](htt
 
 #### **2. Click send**
 
-Once you have picked your files, click the Send button, and it will show you a big QR code and a button to copy the shareable link. The shareable link is the URL that the receiver should visit to download the file. The shareable link contains a unique identifier for your files, along with a 256-bit encryption key that was generated locally in your browser, meaning **TransferZipnever has access to the encryption key.**
+Once you have picked your files, click the Send button, and it will show you a big QR code and a button to copy the shareable link. The shareable link is the URL that the receiver should visit to download the file. The shareable link contains a unique identifier for your files, along with a 256-bit encryption key that was generated locally in your browser, meaning **Transfer.zip never has access to the encryption key.**
 
 ![Screenshot of Quick Share showing a big QR code and that the user is waiting for someone to scan it](/assets/img/quick-share-progress-1.png)
 
@@ -44,7 +44,7 @@ Once you have picked your files, click the Send button, and it will show you a b
 
 Now, you have the option to either let them scan the QR Code, or if they are unable to, you can send them the shareable link. As soon as they scan the QR code or click the link, your devices will try to set up a peer-to-peer connection to each other. In most cases that will work and the devices will connect instantly, but sometimes network firewalls may disallow such direct connections, which means the devices will not be able to connect directly. 
 
-In such cases, Quick Share relays the encrypted file information through one of its servers. As the files are end-to-end encrypted, **it is still impossible for TransferZipto read the files.**
+In such cases, Quick Share relays the encrypted file information through one of its servers. As the files are end-to-end encrypted, **it is still impossible for Transfer.zip to read the files.**
 
 #### **4. Wait while the files are being transfered**
 

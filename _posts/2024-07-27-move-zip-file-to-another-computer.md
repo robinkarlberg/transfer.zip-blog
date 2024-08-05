@@ -17,7 +17,7 @@ But really, what is the easiest way to move a file from one computer to another?
 
 [Transfer.zip](https://transfer.zip) is a file transfer website that prides itself by not requiring an account or any paid subscription to transfer files. It is open source, meaning that its source code is freely available for anyone to view, modify, and distribute. This openness allows for transparency, security, and community-driven improvements. Developers from around the world can contribute to the project, ensuring it remains reliable and up-to-date.
 
-The quickest way to share files on TransferZipis using *Quick Share*, the primary feature of the website. 
+The quickest way to share files on Transfer.zip is using *Quick Share*, the primary feature of the website. 
 
 ### How to use Quick Share on transfer.zip
 
@@ -29,7 +29,7 @@ To get started with Quick Share, head over to the official site at [Transfer.zip
 
 #### **2. Press the send button**
 
-After selecting your files, hit the Send button. This action will generate a large QR code and a button to copy a shareable link. The link provided is what the recipient will use to download the files. This link contains a unique identifier and a 256-bit encryption key that is created in your browser, ensuring that **TransferZipcan never access the encryption key.**
+After selecting your files, hit the Send button. This action will generate a large QR code and a button to copy a shareable link. The link provided is what the recipient will use to download the files. This link contains a unique identifier and a 256-bit encryption key that is created in your browser, ensuring that **Transfer.zip can never access the encryption key.**
 
 ![Screenshot of Quick Share showing a big QR code and that the user is waiting for someone to scan it](/assets/img/quick-share-progress-1.png)
 
@@ -37,7 +37,7 @@ After selecting your files, hit the Send button. This action will generate a lar
 
 Next, you can either let the other device scan the QR code if it is a phone, but if you want to send it to a computer you most likely need to send the link another way. You could mail the link to them, or send it on Discord, Facebook or Twitter. When the receiver scans the QR code or clicks the link, your devices will attempt to establish a peer-to-peer connection. Typically, this connection is made instantly, but if network firewalls block direct connections, the devices will not connect directly.
 
-In such scenarios, Quick Share uses its servers to relay the encrypted file information. Even then, due to end-to-end encryption, **TransferZipcannot access your files.**
+In such scenarios, Quick Share uses its servers to relay the encrypted file information. Even then, due to end-to-end encryption, **Transfer.zip cannot access your files.**
 
 #### **4. Wait for the file transfer to complete**
 

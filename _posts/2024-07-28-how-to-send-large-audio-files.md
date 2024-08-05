@@ -9,7 +9,7 @@ This quote is taken from the [GitHub page](https://github.com/robinkarlberg/tran
 
 **You may ask,** how can it be unlimited for free? 
 
-Well, what makes TransferZipspecial is that the files are **never stored anywhere** on the servers, meaning the data is transfered directly between you and the recipient. This means there is no limit on how big the files can be, they are just sent over the air directly. 
+Well, what makes Transfer.zip special is that the files are **never stored anywhere** on the servers, meaning the data is transfered directly between you and the recipient. This means there is no limit on how big the files can be, they are just sent over the air directly. 
 
 The only caveat is that your browser window needs to be open during the whole file transfer, which is not a limitation in most scenarios: **it may be a good compromise to keep your browser window open for a couple of minutes, in return for free unlimited file transfer.**
 
@@ -29,6 +29,6 @@ When they visit the link, your devices will try to connect directly to each othe
 
 ## Conclusion / Help
 
-Using TransferZipis a game-changer for anyone needing to send large audio files or any other large files quickly and efficiently. The process is streamlined and user-friendly, making it accessible even for those who may not be tech-savvy.
+Using Transfer.zip is a game-changer for anyone needing to send large audio files or any other large files quickly and efficiently. The process is streamlined and user-friendly, making it accessible even for those who may not be tech-savvy.
 
 If you encounter any issues or have questions while using transfer.zip, [submit an issue on their github page](https://github.com/robinkarlberg/transfer.zip-web) or send an email to [support@transfer.zip](mailto:support@transfer.zip).
